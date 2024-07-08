@@ -1,2 +1,3 @@
-# angular-exp
-Learning Angular
+# Angular Experiments
+
+Learning Angular by doing some experiments.
